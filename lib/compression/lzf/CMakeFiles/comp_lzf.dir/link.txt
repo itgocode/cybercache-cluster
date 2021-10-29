@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libcomp_lzf.a  CMakeFiles/comp_lzf.dir/lzf_c.c.o CMakeFiles/comp_lzf.dir/lzf_d.c.o
+/usr/bin/ranlib ../../libcomp_lzf.a

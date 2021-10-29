@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall   CMakeFiles/pcre2.dir/main.c.o  -o ../../../bin/pcre2  -s -O ../../../lib/libregex_pcre2.a 
