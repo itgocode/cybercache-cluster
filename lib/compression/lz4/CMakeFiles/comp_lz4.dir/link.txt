@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../libcomp_lz4.a  CMakeFiles/comp_lz4.dir/lz4.c.o
-/usr/bin/ranlib ../../libcomp_lz4.a

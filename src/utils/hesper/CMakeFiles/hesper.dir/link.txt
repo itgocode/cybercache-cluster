@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -std=c++14   CMakeFiles/hesper.dir/main.cc.o  -o ../../../bin/hesper  -s -O 

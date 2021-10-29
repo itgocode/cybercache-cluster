@@ -1,8 +1,0 @@
-<config>
-  <modules>
-    <CH_CyberCacheSession>
-      <active>true</active>
-      <codePool>community</codePool>
-    </CH_CyberCacheSession>
-  </modules>
-</config>

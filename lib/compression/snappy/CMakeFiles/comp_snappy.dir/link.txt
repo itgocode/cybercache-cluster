@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../libcomp_snappy.a  CMakeFiles/comp_snappy.dir/snappy.cc.o CMakeFiles/comp_snappy.dir/snappy-c.cc.o CMakeFiles/comp_snappy.dir/snappy-sinksource.cc.o CMakeFiles/comp_snappy.dir/snappy-stubs-internal.cc.o
-/usr/bin/ranlib ../../libcomp_snappy.a
