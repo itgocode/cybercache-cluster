@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspace/cybercache-cluster/lib/compression/lz4/lz4.c
+lz4.h
+/workspace/cybercache-cluster/lib/compression/lz4/lz4.h
+intrin.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+
+/workspace/cybercache-cluster/lib/compression/lz4/lz4.h
+
