@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -std=c++14   CMakeFiles/epoll.dir/main.cc.o  -o ../../../bin/epoll  ../../../lib/libc3lib_ce.a -s -O 

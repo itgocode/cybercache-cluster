@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../libhash_murmurhash.a  CMakeFiles/hash_murmurhash.dir/MurmurHash2.cpp.o CMakeFiles/hash_murmurhash.dir/MurmurHash3.cpp.o
-/usr/bin/ranlib ../../libhash_murmurhash.a

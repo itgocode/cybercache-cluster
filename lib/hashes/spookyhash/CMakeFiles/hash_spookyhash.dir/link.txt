@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../libhash_spookyhash.a  CMakeFiles/hash_spookyhash.dir/SpookyV2.cpp.o
-/usr/bin/ranlib ../../libhash_spookyhash.a

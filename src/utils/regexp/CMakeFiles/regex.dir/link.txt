@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -std=c++14   CMakeFiles/regex.dir/main.cc.o  -o ../../../bin/regex  -s -O 
